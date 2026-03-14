@@ -1,2 +1,2 @@
 def test_duMMY():
-  assert True
+  assert True   # nosec
